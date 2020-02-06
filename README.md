@@ -17,12 +17,14 @@ Create a new HTML file called ```problem1_cw.html```, and copy the code below in
 
 ### Exercise 2:
 
+### Note it is OK and even required to modify the starter HTML
+
 Start with the included HTML file ```problem2_cw.html```. Create an external CSS file called ```problem2_cw.css``` and create selectors to style the HTML as follows:
 
 * Give the p tags a gray background, and a right margin of 10%. 
 * Make the class "secondParagraph" have a background color of blue, and horizontally centered on the page.
-* Create selectors to set the background of the first, third, and fourth classes to pink with top and bottom padding of 10px.
-* Create a selector that styles the text ```My First Jibberish Post!``` that sets block properties as follows:
+* Create selectors to set the background of the 2nd, and 3rd paragraphs to pink with top and bottom padding of 10px.
+* Add the text ```My First Jibberish Post!```at end of HTML document and create a selector that styles the text that sets block properties as follows:
 
 width = 500px
 height = 100px
